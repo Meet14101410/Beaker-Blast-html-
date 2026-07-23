@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Beaker Blast</title>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<h1>🧪 Beaker Blast</h1>
+<p>Click the beaker to score!</p>
+
+<div id="beaker" onclick="blast()">🧪</div>
+<h2>Score: <span id="score">0</span></h2>
+
+<script src="script.js"></script>
+</body>
+</html>
